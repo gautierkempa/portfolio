@@ -106,7 +106,7 @@
       <div class="container">
         <div class="row justify-content-center text-center mb-5">
           <div class="col-12 text-center mb-12">
-            <h2 class="text-center">Ils me font confiance</h2>
+            <h2 class="text-center">Ils me font confiance ! </h2>
           </div>
         </div>
 
