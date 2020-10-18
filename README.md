@@ -1,6 +1,7 @@
 # siteperso
 
 > site personnel avec nuxt.js
+http://gautierkempa.com (Site web réalisé dans le cadre d'un examen. La refonte graphique est en cours)
 
 ## Build Setup
 
